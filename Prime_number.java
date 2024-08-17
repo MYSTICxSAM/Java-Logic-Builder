@@ -1,3 +1,4 @@
+//Prime number is a number that is greater than 1 and divided by 1 or itself only.
 import java.util.*;
 public class Prime_number 
 {
