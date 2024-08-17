@@ -1,3 +1,4 @@
+//Factorial of n is the product of all positive descending integers.
 import java.util.*;
 public class Factorial 
 {
