@@ -1,3 +1,4 @@
+//A palindrome number is a number that is same after reverse.
 import java.util.*;
 public class Palindrome 
 {
