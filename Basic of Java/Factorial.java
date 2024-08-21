@@ -13,5 +13,6 @@ public class Factorial
             factorial = factorial*i;
         }
         System.out.println("Factorial: " + factorial);
+        sc.close();
     }
 }
