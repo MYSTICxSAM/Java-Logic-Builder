@@ -18,5 +18,6 @@ class Fibonacci_series
             y = x;
             x = fibb;
         }
+        sc.close();
     }
 }
