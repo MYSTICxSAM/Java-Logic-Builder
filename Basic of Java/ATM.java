@@ -48,8 +48,9 @@ public class ATM_System
                             System.exit(0);
                             //The java.lang.System.exit() method exits current program by terminating running Java virtual machine
                 }
+                    sc.close();
             }
-                sc.close();
+                
         }
 }
 
