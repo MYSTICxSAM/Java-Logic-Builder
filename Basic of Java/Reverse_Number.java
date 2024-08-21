@@ -14,5 +14,6 @@ class Reverse_Number
             y = (y*10) + x;
         }
         System.out.println("Reverse of the number is: " + y);
+        sc.close();
     }
 }
