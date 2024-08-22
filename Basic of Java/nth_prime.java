@@ -1,3 +1,11 @@
+/*
+Read an integer (n) from the user.
+In the while loop, execute the condition (c!=n). Initially, the variable c is 0 and counts the discovered prime numbers.
+Increment the variable i (initially 1) by 1 for the next number check.
+Check if the variable i is prime or not.
+If yes, increment the variable c by 1.
+*/
+
 import java.util.*;
 public class nth_prime
 {
