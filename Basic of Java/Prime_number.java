@@ -15,13 +15,13 @@ public class Prime_number
                 x++;
             }  
         }
-        if(x>2)
+        if(x<=2 && x!=1)
         {
-            System.out.println("Number is not prime");
+            System.out.println("Number is prime");
         }
         else
         {
-            System.out.println("Number is Prime");
+            System.out.println("Number is not Prime");
         }
         sc.close();
     }
