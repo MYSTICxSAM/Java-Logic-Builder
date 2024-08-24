@@ -17,5 +17,6 @@ public class Square_root
             count++;
         }
         System.out.println("Its Square Root as an integer is: "+count);
+        sc.close();
     }    
 }
