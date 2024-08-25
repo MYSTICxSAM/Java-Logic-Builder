@@ -1,3 +1,4 @@
+//Bitwise XOR operator is used to swap two numbers. It is represented by the symbol (^). It compares bits of two operands and returns false or 0 if they are equal and returns true or 1 if they are not equal. 
 import java.util.*;
 public class Swap_Using_Bitwise 
 {
