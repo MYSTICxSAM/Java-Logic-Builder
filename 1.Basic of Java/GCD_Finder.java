@@ -1,3 +1,7 @@
+/*Find all the factors of each number.
+Select the common factors.
+Select the greatest number, as GCF.*/
+
 import java.util.*;
 public class GCD_Finder 
 {
