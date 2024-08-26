@@ -15,5 +15,6 @@ public class Swap_Using_Bitwise
         num1 = num1 ^ num2;
         System.out.println("1st number is " + num1);
         System.out.println("2nd number is " + num2);
+        sc.close();
     }
 }
