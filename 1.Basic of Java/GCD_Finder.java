@@ -18,5 +18,6 @@ public class GCD_Finder
             }
         }
         System.out.println("GCD of " + num1 + " and " + num2 + " is: " + GCD);
+        sc.close();
     }
 }
