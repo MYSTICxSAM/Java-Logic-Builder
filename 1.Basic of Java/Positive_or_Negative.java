@@ -9,11 +9,11 @@ public class Positive_or_Negative
         int num = sc.nextInt();
         if(num>=0)
         {
-            System.out.println( num +" is Positive");
+            System.out.println( num +" is Positive Number");
         }
         else
         {
-            System.out.println("Number is Negative");
+            System.out.println(num +" is Negative Number");
         }
         sc.close();
     }
