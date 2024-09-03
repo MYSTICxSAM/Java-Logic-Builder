@@ -8,7 +8,7 @@ Basic Java Questions: We begin with fundamental Java problems to build a strong 
 
 Data Structures and Algorithms (DSA): After mastering the basics, we dive into essential DSA topics such as arrays, linked lists, stacks, queues, and more. Each section will include problems that help solidify your understanding and prepare you for coding challenges.
 
-### Goals
+## Goals
 
 Build a solid foundation in Java programming.
 Develop problem-solving skills for coding interviews and competitive programming.
