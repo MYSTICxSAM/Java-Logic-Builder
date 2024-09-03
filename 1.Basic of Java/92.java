@@ -11,7 +11,7 @@ public class nth_prime
 {
     public static void main(String args[])
     {
-        System.out.print("Enter a number to get nth prie number:");
+        System.out.print("Enter a number to get nth prime number:");
         Scanner sc = new Scanner(System.in);
         int nth = sc.nextInt();
         int count =0;
