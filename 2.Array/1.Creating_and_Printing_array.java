@@ -16,5 +16,6 @@ public class Creating_and_Printing
         {
             System.out.print(number + " ");
         }
+        sc.close();
     }
 }
