@@ -20,5 +20,6 @@ public class Linear_Search
                 System.out.print(num[i] + " is on index " + i);
             }
         }
+    sc.close();
     }
 }
