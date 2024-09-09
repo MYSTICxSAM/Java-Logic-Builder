@@ -4,7 +4,7 @@ public class Linear_Search
 {
     public static void main(String args[])
     {
-        System.out.print("Enter 5 numbers in assending order: ");
+        System.out.print("Enter 5 numbers: ");
         Scanner sc =  new Scanner(System.in);
         int num[] = new int[5];
         for(int i= 0;i<num.length;i++)
