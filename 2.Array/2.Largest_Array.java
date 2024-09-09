@@ -21,5 +21,6 @@ public class Largest_Array
                 System.out.println("Number is on positin: " + j);
             }
         }
+        sc.close();
     }    
 }
