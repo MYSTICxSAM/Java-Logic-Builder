@@ -1,4 +1,4 @@
-package Array;
+
 import java.util.*;
 public class Creating_and_Printing
 {
