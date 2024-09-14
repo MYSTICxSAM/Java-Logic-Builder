@@ -21,6 +21,6 @@ public class Reverse_array
         {
             System.out.print(n1[i] + " ");
         }
-
+        sc.close();
     }
 }
