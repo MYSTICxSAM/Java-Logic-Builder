@@ -1,4 +1,4 @@
-package Array;
+
 
 public class Calculate_average_value_of_array_elements 
 {
