@@ -1,4 +1,4 @@
-package Array;
+
 import java.util.*;
 public class Reverse_array 
 {
