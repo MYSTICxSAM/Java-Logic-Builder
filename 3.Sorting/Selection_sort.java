@@ -11,14 +11,16 @@ public class Bubble_sort
         {
             num[i] = sc.nextInt();
         }
-        for(int j=0;j<(num.length-1);j++)
-        for(int i=j+1 ;i<num.length;i++)
+       for(int j=0;j<(num.length-1);j++)
         {
-            if(num[j] > num[i])
+            for(int i=j+1 ;i<num.length;i++)
             {
-                int swap = num[j];
-                num[j] = num[i];
-                num[i] = swap;
+                if(num[j] > num[i])
+                {
+                    int swap = num[j];
+                    num[j] = num[i];
+                    num[i] = swap;
+                }
             }
         }
         for(int i=0 ;i<num.length;i++)
