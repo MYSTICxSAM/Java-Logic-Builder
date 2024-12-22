@@ -15,6 +15,6 @@ public class Subarray
                 System.out.println();
             }
             System.out.println();
-        }
+        } 
     }    
 }
