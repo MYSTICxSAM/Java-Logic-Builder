@@ -7,3 +7,4 @@ This folder focuses on array-related problems, one of the most fundamental data 
 - Introduction to arrays and their operations.
 - Common algorithms like searching and more.
 - Array-based problem-solving techniques.
+ 
